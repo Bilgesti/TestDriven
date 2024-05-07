@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="867b2331-eea2-4f06-b70f-85f097287bb1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/reky/hakan/util/GameUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/reky/hakan/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/reky/hakan/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/reky/hakan/GameStateManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/reky/hakan/GameStateManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/reky/hakan/IOHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/reky/hakan/IOHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/reky/hakan/PlayerInteraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/reky/hakan/PlayerInteraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/reky/hakan/ProjektuppgiftApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/reky/hakan/ProjektuppgiftApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/reky/hakan/SimpleGameStateManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/reky/hakan/SimpleGameStateManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/reky/hakan/SimplePlayerInteraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/reky/hakan/SimplePlayerInteraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/reky/hakan/model/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/reky/hakan/model/Actor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/reky/hakan/model/Goblin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/reky/hakan/model/Goblin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/reky/hakan/model/Guard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/reky/hakan/model/Guard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/reky/hakan/model/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/reky/hakan/model/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/reky/hakan/model/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/reky/hakan/model/SilverRing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/reky/hakan/model/Sword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/reky/hakan/service/PlayerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/reky/hakan/service/PlayerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/reky/hakan/web/PlayerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/reky/hakan/web/PlayerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/player.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/players.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/se/reky/hakan/GameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/se/reky/hakan/PlayerStatsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/se/reky/hakan/ProjektuppgiftApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/se/reky/hakan/ScannerUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/mockito-extensions/org.mockito.plugins.MockMaker" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2eis77Vf2TjOBNTuhsnHmVzpSD9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JUnit.GameTest.endingAddsToExperience.executor": "Run",
+    "JUnit.GameTest.testGame.executor": "Run",
+    "JUnit.GameTest.testGameContinuesOnYes.executor": "Run",
+    "JUnit.GameTest.testGameExits.executor": "Run",
+    "JUnit.GameTest.testGoblinAttacksPlayerAndPlayerIsDead.executor": "Run",
+    "JUnit.GameTest.testMockScannerHasNextInt.executor": "Run",
+    "JUnit.GameTest.testPlayGameAttackingGuardAndPlayerIsDead.executor": "Run",
+    "JUnit.GameTest.testPlayerAttacksGoblin.executor": "Run",
+    "JUnit.GameTest.testPlayerFightsGoblin.executor": "Run",
+    "JUnit.GameTest.testPlayerNotSetShouldThrowNullPoiner.executor": "Run",
+    "JUnit.GameTest.testPlayerSetUp.executor": "Run",
+    "JUnit.GameTest.testPlayerSetup.executor": "Run",
+    "JUnit.GameTest.testPlayerWinsFight.executor": "Run",
+    "JUnit.GameTest.testScanner.executor": "Run",
+    "JUnit.GameTest.testScannerHasNextInt.executor": "Run",
+    "JUnit.GameTest.testThis.executor": "Debug",
+    "JUnit.GameTest.testUserSaysNoToPlayingResultingInGameNotRunning.executor": "Run",
+    "JUnit.GameTest.updatePlayerHealth.executor": "Run",
+    "JUnit.PlayerInteractionTest.testSetupPlayer.executor": "Run",
+    "JUnit.PlayerInteractionTest.testUpdatePlayerHealth.executor": "Run",
+    "JUnit.PlayerStatsTest.testPlayerDetails.executor": "Run",
+    "JUnit.PlayerStatsTest.testPlayerNameIsDisplayedAtPlayerEndpoint.executor": "Run",
+    "JUnit.PlayerStatsTest.testProductsDisplay.executor": "Run",
+    "JUnit.PlayerStatsTest.testSlao.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.ProjektuppgiftApplication (1).executor": "Run",
+    "Spring Boot.ProjektuppgiftApplication.executor": "Run",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/hakangleissman/Documents/TDD-kurs/projektuppgift/src/test/java/se/reky/hakan",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/se/reky/hakan" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="se.reky.hakan" />
+      <recent name="se.reky.hakan.sti.tdd.projektuppgift" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="se.reky.hakan" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProjektuppgiftApplication (1)">
+    <configuration name="GameTest.testPlayerSetup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mocking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.reky.hakan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.reky.hakan" />
+      <option name="MAIN_CLASS_NAME" value="se.reky.hakan.GameTest" />
+      <option name="METHOD_NAME" value="testPlayerSetup" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerInteractionTest.testSetupPlayer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mocking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.reky.hakan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.reky.hakan" />
+      <option name="MAIN_CLASS_NAME" value="se.reky.hakan.PlayerInteractionTest" />
+      <option name="METHOD_NAME" value="testSetupPlayer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerInteractionTest.testUpdatePlayerHealth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mocking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.reky.hakan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.reky.hakan" />
+      <option name="MAIN_CLASS_NAME" value="se.reky.hakan.PlayerInteractionTest" />
+      <option name="METHOD_NAME" value="testUpdatePlayerHealth" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerStatsTest.testPlayerNameIsDisplayedAtPlayerEndpoint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mocking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.reky.hakan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.reky.hakan" />
+      <option name="MAIN_CLASS_NAME" value="se.reky.hakan.PlayerStatsTest" />
+      <option name="METHOD_NAME" value="testPlayerNameIsDisplayedAtPlayerEndpoint" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerStatsTest.testSlao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mocking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.reky.hakan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.reky.hakan" />
+      <option name="MAIN_CLASS_NAME" value="se.reky.hakan.PlayerStatsTest" />
+      <option name="METHOD_NAME" value="testSlao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjektuppgiftApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="mocking" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="se.reky.hakan.ProjektuppgiftApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjektuppgiftApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="mocking" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="se.reky.hakan.sti.tdd.projektuppgift.ProjektuppgiftApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PlayerInteractionTest.testUpdatePlayerHealth" />
+        <item itemvalue="JUnit.PlayerInteractionTest.testSetupPlayer" />
+        <item itemvalue="JUnit.GameTest.testPlayerSetup" />
+        <item itemvalue="JUnit.PlayerStatsTest.testPlayerNameIsDisplayedAtPlayerEndpoint" />
+        <item itemvalue="JUnit.PlayerStatsTest.testSlao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="867b2331-eea2-4f06-b70f-85f097287bb1" name="Changes" comment="" />
+      <created>1712398562475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712398562475</updated>
+      <workItem from="1712398563624" duration="11859000" />
+      <workItem from="1712482833610" duration="671000" />
+      <workItem from="1712508043976" duration="3266000" />
+      <workItem from="1712781567049" duration="46499000" />
+      <workItem from="1713387866650" duration="2663000" />
+      <workItem from="1713600415358" duration="5264000" />
+      <workItem from="1713720389678" duration="598000" />
+      <workItem from="1713855613253" duration="599000" />
+      <workItem from="1713953953930" duration="3190000" />
+      <workItem from="1714386368724" duration="652000" />
+      <workItem from="1714578623548" duration="17896000" />
+      <workItem from="1714660375442" duration="4529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/se/reky/hakan/web/PlayerController.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
