@@ -7,6 +7,27 @@
     <list default="true" id="867b2331-eea2-4f06-b70f-85f097287bb1" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/test/java/se.reky.hakan/IOHandlerTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/se.reky.hakan/PlayerInteractionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/se.reky.hakan/model/ActorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/se/reky/hakan/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/se/reky/hakan/GameException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/se/reky/hakan/GameStateManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/se/reky/hakan/IOHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/se/reky/hakan/PlayerInteraction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/se/reky/hakan/ProjektuppgiftApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/se/reky/hakan/SimpleGameStateManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/se/reky/hakan/SimplePlayerInteraction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/se/reky/hakan/model/Actor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/se/reky/hakan/model/Goblin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/se/reky/hakan/model/Guard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/se/reky/hakan/model/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/se/reky/hakan/repository/PlayerRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/se/reky/hakan/service/PlayerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/se/reky/hakan/util/GameUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/se/reky/hakan/web/PlayerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/players.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/se/reky/hakan/IOHandlerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/se/reky/hakan/PlayerInteractionTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -263,7 +284,7 @@
       <workItem from="1714578623548" duration="17896000" />
       <workItem from="1714660375442" duration="4529000" />
       <workItem from="1715086387099" duration="1293000" />
-      <workItem from="1715087730329" duration="6809000" />
+      <workItem from="1715087730329" duration="7246000" />
     </task>
     <servers />
   </component>
