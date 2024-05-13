@@ -34,8 +34,9 @@ public abstract class Actor {
         return hp;
     }
 
-    public void setHp(int hp) {
+    public int setHp(int hp) {
         this.hp = hp;
+        return hp;
     }
 
     public String getName() {
