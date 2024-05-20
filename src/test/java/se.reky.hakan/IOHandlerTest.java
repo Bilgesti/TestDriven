@@ -21,12 +21,14 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
    //   för att förstå hur detta hänger ihop.
    //   */
 public class IOHandlerTest {
-
+   // Variabel som kommer att användas i testfallen för att testa metoder från klassen.
    private IOHandler ioHandler;
 
+   // Skapar en metod som instansierar ny IOHandler med Scanner som är instansierad med en given String data.
    private IOHandler testIOHandler(String data){
       return new IOHandler( new Scanner( data ) );
    }
+
 
    @DisplayName( "Test av NextLine-metoden i IOHandler" )
    @Test

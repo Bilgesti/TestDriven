@@ -12,14 +12,20 @@ import se.reky.hakan.GameException;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
 public class GameUtilTest {
+    // Deklarerar variabeln
     GameUtil gameUtil;
+
+    // Annotation innan varje testmetod körs
     @BeforeEach
     void setUp(){
          gameUtil = new GameUtil();
     }
+
+    // Testar att GameUtil metod hanterar null-inmatning.
     @Test
     @DisplayName( "Testar när inputen är null" )
     void toLowerCaseButFirstLetterCapitalizedNullInput(){
+
         assertThrows( GameException.class, () -> {
             gameUtil.toLowerCaseButFirstLetterCapitalized( null );
         } );

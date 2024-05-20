@@ -16,15 +16,18 @@ import java.util.Scanner;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class ActorTest {
+    // Instanserar variablerna för spelare och motståndare
     Player player;
     Goblin goblin;
 
+    // Annotationen som körs innan varje testmetod. Den metod används för att instansierar våra karaktärer.
     @BeforeEach
     void init() {
         player = new Player( "Håkan", 10, 7 );
         goblin = new Goblin( "Goblin", 20, 3 );
     }
 
+    // Testar att när spelaren attackerar goblinen och minskar hälsan på rätt sätt.
     @Test
     @DisplayName( "Testar att Goblin tar attack från spelaren" )
     void playerAttackToGoblin(){
@@ -34,6 +37,7 @@ public class ActorTest {
         assertEquals(goblin.getHp(),goblinHP- player.getDamage());
     }
 
+    // Testar att när goblin attackerar spelaren och minskar spelarens hälsa på rätt sätt.
     @Test
     @DisplayName( "Testar att Spelaren tar attack från Goblin" )
     void goblinAttackToPlayer(){
